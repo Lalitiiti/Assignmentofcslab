@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+  freopen("input11.txt","r",stdin);
+  freopen("output11.txt","w",stdout);
 int n;
 cin>>n;
 int a[n];
