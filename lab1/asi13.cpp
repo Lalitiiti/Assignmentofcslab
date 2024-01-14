@@ -31,6 +31,8 @@ int travllingSalesmanProblem(int v,vector<vector<int>>&graph,int s)
 }
 int main()
 {
+    freopen("input11.txt","r",stdin);
+    freopen("output11.txt","w",stdout);
     int n;
     cin>>n;
     vector<vector<int>> g(n,vector<int>(n,INT_MAX));
