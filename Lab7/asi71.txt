@@ -1,0 +1,1 @@
+Greedy aproch in not optimal aproch because is not give the correct ans all time like same exaple which are given in question
