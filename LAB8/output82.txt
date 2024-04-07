@@ -1,3 +1,6 @@
+Enter the number of vertices:
+Enter the number of edges:
+Enter edges (source, destination, weight, color (B/G)):
 Minimum Spanning Tree Edges with Alternating Colors:
 1 -- 2 weight: 1 color: G
 0 -- 1 weight: 2 color: B
