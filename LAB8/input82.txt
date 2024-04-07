@@ -1,6 +1,4 @@
-Enter the number of vertices: 5
-Enter the number of edges: 7
-Enter edges (source, destination, weight, color (B/G)):
+5 7
 0 1 2 B
 0 2 4 G
 0 3 5 B
