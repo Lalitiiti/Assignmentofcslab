@@ -85,6 +85,8 @@ void alternatingMST(vector<Edge>& edges, int V, int E) {
 }
 
 int main() {
+     freopen("input82.txt","r",stdin);
+    freopen("output82.txt","w",stdout);
     int V, E;
     cout << "Enter the number of vertices: ";
     cin >> V;
